@@ -1,0 +1,1 @@
+This is the directory to Javascript ES6 Promises
