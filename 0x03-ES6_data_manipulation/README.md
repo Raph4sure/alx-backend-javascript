@@ -1,0 +1,1 @@
+This is Javascript Es6 data manipulation project.
